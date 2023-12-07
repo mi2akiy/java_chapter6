@@ -1,4 +1,3 @@
-package java_chapter6;
 public class Student {
 	private String name;
 

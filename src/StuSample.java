@@ -1,4 +1,3 @@
-package java_chapter6;
 public class StuSample {
 
 	public static void main(String[] args) {
