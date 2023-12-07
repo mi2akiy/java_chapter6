@@ -7,7 +7,7 @@ public class Student {
 		this.name = name;
 	}
 	public String toString() {
-		return "私の名前は" + name + "です";
+		return "私の名前は" + name + "ですか";
 	}
 	
 	
